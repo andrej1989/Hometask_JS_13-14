@@ -1,0 +1,29 @@
+ul{
+	list-style: none;
+}
+
+.complete-modal{
+	padding: 25px;
+	position: fixed;
+	top: 30vh;
+	left: 50%;
+	width: 240px;
+	margin-left: -120px;
+	border: 1px solid #eee;
+	background-color: white;
+}
+
+.good{
+	color: green;
+	font-weight: bold;
+}
+
+.bad{
+	color: red;
+	font-weight: bold;
+}
+
+.btn-reset{
+	margin: 10px;
+	margin-bottom: 0;
+}
